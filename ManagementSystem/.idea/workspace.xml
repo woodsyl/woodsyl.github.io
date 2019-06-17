@@ -12,14 +12,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5135554">
+    <splitter split-orientation="horizontal" split-proportion="0.63065135">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/pages/homePage.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="398">
-                  <caret line="104" selection-start-line="104" selection-end-line="104" />
+                <state relative-caret-position="220">
+                  <caret line="18" selection-start-line="18" selection-end-line="22" selection-end-column="15" />
                   <folding>
                     <element signature="n#script#0;n#html#0;n#!!top" />
                   </folding>
@@ -34,8 +34,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/homePage.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="352">
-                  <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+                <state relative-caret-position="608">
+                  <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
                 </state>
               </provider>
             </entry>
@@ -58,6 +58,9 @@
       <find>ztreeModal</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -70,12 +73,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="430" />
     <option name="y" value="25" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -86,27 +90,11 @@
           <expand>
             <path>
               <item name="ManagementSystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="D:\WorkStation\ManagementSystem" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="E:\woodsyl.github.io\ManagementSystem" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
             <path>
               <item name="ManagementSystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="D:\WorkStation\ManagementSystem" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="css" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="ManagementSystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="D:\WorkStation\ManagementSystem" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="js" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="ManagementSystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="D:\WorkStation\ManagementSystem" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="js" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="css" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="ManagementSystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="D:\WorkStation\ManagementSystem" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="E:\woodsyl.github.io\ManagementSystem" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="pages" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
@@ -118,6 +106,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pages" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -155,17 +144,18 @@
       <workItem from="1560656815969" duration="7782000" />
       <workItem from="1560684612684" duration="2824000" />
       <workItem from="1560732106910" duration="6493000" />
+      <workItem from="1560739368162" duration="621000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17099000" />
+    <option name="totallyTimeSpent" value="17720000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14729194" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13804491" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -214,33 +204,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jQuery/ajaxfileupload.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/zTree-3.5/img/line_conn.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/zTree-3.5/img/loading.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/zTree-3.5/img/z_4.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/zTree-3.5/img/z_4_01.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/zTree-3.5/img/zTreeStandard.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/zTree-3.5/img/zTreeStandard.old.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/zTree-3.5/img/zTreeStandard.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/zTree-3.5/img/z_04.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jQuery/ajaxfileupload.js" />
+    <entry file="file://$PROJECT_DIR$/js/zTree-3.5/img/line_conn.gif" />
+    <entry file="file://$PROJECT_DIR$/js/zTree-3.5/img/loading.gif" />
+    <entry file="file://$PROJECT_DIR$/js/zTree-3.5/img/z_4.png" />
+    <entry file="file://$PROJECT_DIR$/js/zTree-3.5/img/z_4_01.png" />
+    <entry file="file://$PROJECT_DIR$/js/zTree-3.5/img/zTreeStandard.gif" />
+    <entry file="file://$PROJECT_DIR$/js/zTree-3.5/img/zTreeStandard.old.png" />
+    <entry file="file://$PROJECT_DIR$/js/zTree-3.5/img/zTreeStandard.png" />
+    <entry file="file://$PROJECT_DIR$/js/zTree-3.5/img/z_04.png" />
     <entry file="file://$USER_HOME$/Desktop/5d06eb7467f57/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -258,16 +230,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/dropdown.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-817">
-          <caret line="23" selection-start-line="23" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/dropdown.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/dropdown.css" />
+    <entry file="file://$PROJECT_DIR$/js/dropdown.js" />
     <entry file="file://$PROJECT_DIR$/pages/1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="619">
@@ -277,15 +241,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/homePage.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        <state relative-caret-position="608">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/homePage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        <state relative-caret-position="220">
+          <caret line="18" selection-start-line="18" selection-end-line="22" selection-end-column="15" />
           <folding>
             <element signature="n#script#0;n#html#0;n#!!top" />
           </folding>
