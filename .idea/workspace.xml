@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9235cfb3-addc-4d19-ab29-15f3ec0fa8b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ManagementSystem/css/homePage/companyInfo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ManagementSystem/css/homePage/personInfo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ManagementSystem/css/homePage/search.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ManagementSystem/img/homePage/daochu_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ManagementSystem/img/homePage/polygon_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ManagementSystem/pages/homePage/companyInfo_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ManagementSystem/pages/homePage/personInfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ManagementSystem/pages/homePage/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/css/homePage.css" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/css/homePage/homePage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/2776d6389adce0c0a3fefe2f642e0d1691162245c12e0-W5hWrj拷贝.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/2776d6389adce0c0a3fefe2f642e0d1691162245c12e0-W5hWrj拷贝.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/PDF.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/homePage/pdf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/word拷贝3.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/homePage/word_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/上传视频.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/上传视频.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/上传视频2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/上传视频2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/不显示密码.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/不显示密码.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/不良.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/homePage/buliang.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/中叉.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/中叉.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/举报.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/举报.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/举报3.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/homePage/jubao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/举报拷贝.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/举报拷贝.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/二维码.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/二维码.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/人员二维码.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/homePage/person_code.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/人员管理.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/人员管理.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/人员管理拷贝.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/人员管理拷贝.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/保存.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/保存.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/公司.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/公司.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/公司拷贝.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/公司拷贝.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/删除.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/删除.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/删除黄.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/删除黄.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/劳务用工管理.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/劳务用工管理.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/劳务用工管理拷贝.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/劳务用工管理拷贝.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/勾.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/勾.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/历史记录.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/homePage/lishijilu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/叉.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/叉.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/叉2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/叉2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/叉掉.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/叉掉.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/取消.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/取消.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/台账.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/台账.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/合同打印.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/合同打印.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/合同管理.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/合同管理.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/合同管理拷贝.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/合同管理拷贝.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/向上.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/homePage/upward.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/向上2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/homePage/xiangshang_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/向右.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/向右.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/多边形1.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/homePage/xiangshang_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/多边形595.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/多边形595.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/大二维码.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/大二维码.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/大叉.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/大叉.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/大相机.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/大相机.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/安全帽.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/安全帽.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/安全帽拷贝.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/安全帽拷贝.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/安全行为记录.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/安全行为记录.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/安全行为记录拷贝.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/安全行为记录拷贝.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/导出.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/homePage/daochu_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/小白叉.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/小白叉.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/小相机.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/小相机.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/小编辑.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/小编辑.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/展开.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/homePage/zhankai.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/工资.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/homePage/gongzi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/左右.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/左右.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/形状3拷贝.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/形状3拷贝.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/形状4拷贝.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/成功.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/成功.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/打印.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/homePage/dayin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/执行.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/执行.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/报备.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/报备.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/拍照.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/homePage/paizhao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/搜索(3).png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/homePage/search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/教育报表.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/教育报表.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/文件夹(1).png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/文件夹(1).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/文档下载中心.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/文档下载中心.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/新增.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/新增.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/时间.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/时间.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/更多拷贝.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/更多拷贝.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/查看‘.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/查看‘.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/核查.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/核查.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/相片.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/homePage/xiangpian.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/省份证.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/省份证.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/矢量智上传能对象.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/矢量智上传能对象.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/矢量智能对象.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/矢量智能对象.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/矩形529拷贝2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/矩形529拷贝2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/矩形529拷贝3.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/矩形529拷贝3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/确认.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/确认.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/签名.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/签名.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/系统设置.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/系统设置.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/系统设置拷贝.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/系统设置拷贝.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/组112.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/组112.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/统计台账拷贝.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/统计台账拷贝.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/统计台账拷贝2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/统计台账拷贝2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/编辑.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/编辑.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/考勤.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/考勤.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/考勤拷贝.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/考勤拷贝.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/考勤表.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/考勤表.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/良好.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/homePage/lianghao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/花名册.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/花名册.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/虚线.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/homePage/xuxian.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/进场.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/homePage/jinchang.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/退场.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/退场.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/退场总数.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/homePage/tuichang.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/量化薪酬.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/量化薪酬.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/量化薪酬拷贝.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/量化薪酬拷贝.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/首页.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/首页.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/首页拷贝.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/首页拷贝.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/高拍仪拍摄.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/高拍仪拍摄.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/黑叉.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/黑叉.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/黑名单.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/黑名单.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/黑名单3.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/homePage/heimingdan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/img/黑名单拷贝.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/img/img_backup/黑名单拷贝.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementSystem/pages/homePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementSystem/pages/homePage/homePage.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ManagementSystem/pages/homePage/companyInfo_1.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3230">
+                  <caret line="223" column="52" selection-start-line="223" selection-start-column="52" selection-end-line="223" selection-end-column="52" />
+                  <folding>
+                    <element signature="n#style#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ManagementSystem/img/homePage/xiangshang_2.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ManagementSystem/pages/homePage/personInfo.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="76">
+                  <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+                  <folding>
+                    <element signature="n#head#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#6;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#7;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#style#0;n#div#2;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#div#8;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#9;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#div#0;n#div#9;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#10;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#11;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#12;n#body#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ManagementSystem/img/homePage/xuxian.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ManagementSystem/pages/homePage/homePage.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="228">
+                  <caret line="180" column="35" selection-start-line="180" selection-start-column="35" selection-end-line="180" selection-end-column="35" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ManagementSystem/pages/homePage/search.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1881">
+                  <caret line="99" selection-start-line="99" selection-end-line="125" selection-end-column="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ManagementSystem/css/homePage/companyInfo.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2508">
+                  <caret line="132" column="1" selection-start-line="132" selection-start-column="1" selection-end-line="132" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ManagementSystem/pages/homePage/homePage.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1121">
+                  <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ManagementSystem/css/homePage/personInfo.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="237">
+                  <caret line="118" column="17" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;br/&gt;</find>
+      <find>curMonth</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>div</replace>
+      <replace>month</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ManagementSystem/css/homePage/companyInfo.css" />
+        <option value="$PROJECT_DIR$/ManagementSystem/pages/homePage/homePage.html" />
+        <option value="$PROJECT_DIR$/ManagementSystem/pages/homePage/companyInfo_1.html" />
+        <option value="$PROJECT_DIR$/ManagementSystem/pages/homePage/personInfo.html" />
+        <option value="$PROJECT_DIR$/ManagementSystem/css/homePage/personInfo.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/woodsyl.github.io.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/ManagementSystem/daKuanSystem/.idea/daKuanSystem.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="y" value="5" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="woodsyl.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="woodsyl.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="woodsyl.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="woodsyl.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="ManagementSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="woodsyl.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="woodsyl.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="ManagementSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="woodsyl.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="woodsyl.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="ManagementSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="homePage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="woodsyl.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="woodsyl.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="ManagementSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="woodsyl.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="woodsyl.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="ManagementSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="img_backup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="woodsyl.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="woodsyl.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="ManagementSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="woodsyl.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="woodsyl.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="ManagementSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="homePage" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/WorkStation/cyx" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\woodsyl.github.io\ManagementSystem\img\homePage" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9235cfb3-addc-4d19-ab29-15f3ec0fa8b0" name="Default Changelist" comment="" />
+      <created>1561008258386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561008258386</updated>
+      <workItem from="1561008259451" duration="15601000" />
+      <workItem from="1561077489860" duration="1199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16800000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2001321" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ManagementSystem/css/homePage/homePage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ManagementSystem/img/homePage/xiangshang_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ManagementSystem/pages/homePage/companyInfo_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3230">
+          <caret line="223" column="52" selection-start-line="223" selection-start-column="52" selection-end-line="223" selection-end-column="52" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ManagementSystem/img/homePage/xiangshang_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ManagementSystem/img/homePage/xuxian.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ManagementSystem/pages/homePage/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1881">
+          <caret line="99" selection-start-line="99" selection-end-line="125" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ManagementSystem/css/homePage/companyInfo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2508">
+          <caret line="132" column="1" selection-start-line="132" selection-start-column="1" selection-end-line="132" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ManagementSystem/css/homePage/personInfo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="118" column="17" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ManagementSystem/pages/homePage/personInfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#7;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#2;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#9;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#10;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#11;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#12;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ManagementSystem/pages/homePage/homePage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="180" column="35" selection-start-line="180" selection-start-column="35" selection-end-line="180" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
