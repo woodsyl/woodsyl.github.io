@@ -1,0 +1,2 @@
+webpackJsonp([1],{"9iRu":function(e,t,c){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("车辆报废")])},staticRenderFns:[]};var r=c("VU/8")({name:"carScraped"},n,!1,function(e){c("GwcD")},"data-v-a63fcc5c",null);t.default=r.exports},GwcD:function(e,t){}});
+//# sourceMappingURL=1.8252d70e9a42e46680ca.js.map
