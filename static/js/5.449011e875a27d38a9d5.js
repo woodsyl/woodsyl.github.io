@@ -1,0 +1,2 @@
+webpackJsonp([5],{IUFQ:function(e,t){},iUju:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("车辆档案")])},staticRenderFns:[]};var a=n("VU/8")({name:"carInfo"},r,!1,function(e){n("IUFQ")},"data-v-5d42595e",null);t.default=a.exports}});
+//# sourceMappingURL=5.449011e875a27d38a9d5.js.map
