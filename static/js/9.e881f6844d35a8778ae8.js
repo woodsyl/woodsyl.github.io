@@ -1,0 +1,2 @@
+webpackJsonp([9],{"6BUc":function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var c={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n    权限不足\n")])},staticRenderFns:[]};var r=t("VU/8")({name:"page404"},c,!1,function(e){t("wnBP")},"data-v-044cdc42",null);n.default=r.exports},wnBP:function(e,n){}});
+//# sourceMappingURL=9.e881f6844d35a8778ae8.js.map
